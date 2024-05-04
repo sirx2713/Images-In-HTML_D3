@@ -1,0 +1,28 @@
+body{
+    background-color: #4793AF;
+    color: #FFC470;
+}
+h1{
+    font-family: Inter, serif;
+    font-size: 100px;
+    text-align: center;
+}
+.first-image{
+    font-family: Inter, serif;
+    color: #DD5746;
+}
+#first-image-div{
+    height: 266px;
+    width: 400px;
+    background-color: #FFC470;
+    border: 10px solid #DD5746;
+}
+.second-image{
+    font-family: Inter, serif;
+    color: #DD5746;
+}
+#second-image-div{
+    height: 200px;
+    width: 200px;
+    border: 10px solid #DD5746;
+}
